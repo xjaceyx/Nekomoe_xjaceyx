@@ -1,6 +1,6 @@
 #### 片源获取
 
-通常在[Nyaa](https://nyaa.si/)或[SubsPlease官网](https://subsplease.org/)搜索**英文片名**获取 `Erai-raws`或 `SubsPlease`Web片源。
+通常在[Nyaa](https://nyaa.si/)或[SubsPlease官网](https://subsplease.org/)搜索**英文片名**来获取 `Erai-raws`或 `SubsPlease`Web片源。
 
 #### 稿件格式
 

@@ -24,7 +24,7 @@
 1. 句长限制，翻译尽量清晰简洁，中字每行不超过25个字。
 2. 数字使用，单个数字在中字中通常使用汉字。
 3. 标点对应，~~中字日字中出现的标点符号需一一对应。~~ 除**直角引号**外的标点需要一一对应，要么都有，要么都没有。强行对齐引号在实践中会极大影响翻译的灵活性。
-4. 前后对应，先前出现过的台词在回忆等场景重复出现时，需要保持前后一致。可以在[校对稿汇总](https://github.com/xjaceyx/Nekomoe_xjaceyx/blob/main/Konofuka/%E6%A0%A1%E5%AF%B9%E7%A8%BF%E6%B1%87%E6%80%BB.txt)中，查找之前的翻译。
+4. 前后对应，先前出现过的台词在回忆等场景重复出现时，需要保持前后一致。可以在校对稿汇总中，查找之前的翻译。
 
 其他细节请参考天爷的[翻译校对教程](https://github.com/yangtianLH/Nekomoe_Yangtian/wiki)和前辈的[制作守则](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/wiki)。
 
